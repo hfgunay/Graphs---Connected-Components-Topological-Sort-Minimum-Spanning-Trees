@@ -1,0 +1,5 @@
+### MISSION NETWORKING START ###
+Hyperchannel between D88 - D819 with cost 1.806250
+Hyperchannel between D532 - D819 with cost 1.642045
+The total cost of the subspace communication network is 3.448295.
+### MISSION NETWORKING END ###

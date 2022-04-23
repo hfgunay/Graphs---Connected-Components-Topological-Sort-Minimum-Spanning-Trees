@@ -1,0 +1,104 @@
+### MISSION GROUNDWORK START ###
+-----------------------------------------------------------------
+Project name: Space Probe Construction
+-----------------------------------------------------------------
+Task ID   Description                                  Start  End  
+-----------------------------------------------------------------
+0         Space Probe Hull Construction                0      5    
+1         Hardware and Operating System Installation   5      9    
+2         Radar Installation                           9      11   
+3         Navigation Module Installation               13     14   
+4         Antenna and Communication HW/SW Installation 9      13   
+5         Testing and Finalizing Project               14     17   
+-----------------------------------------------------------------
+Project will be completed in 17 days.
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+Project name: Space Shuttle Construction
+-----------------------------------------------------------------
+Task ID   Description                                  Start  End  
+-----------------------------------------------------------------
+0         Space Shuttle Hull Construction              0      17   
+1         Space Shuttle Operating System               23     28   
+2         Space Shuttle Computational Hardware         17     23   
+3         Communication Hardware                       28     37   
+4         Communication Software                       37     44   
+5         Antenna Module Installation                  17     19   
+6         Encryption Software                          44     53   
+7         Radar Hardware                               28     38   
+8         Radar Software                               53     58   
+9         Navigator Module                             58     62   
+10        Radar Construction                           17     28   
+11        Navigation Software                          62     68   
+12        Testing and Project Finalizing               68     78   
+-----------------------------------------------------------------
+Project will be completed in 78 days.
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+Project name: Space Suit Development
+-----------------------------------------------------------------
+Task ID   Description                                  Start  End  
+-----------------------------------------------------------------
+0         Research Facility                            0      10   
+1         Testing Facility                             20     30   
+2         Production Facility                          10     20   
+3         Fabric Production                            20     25   
+4         Fabric Research                              10     14   
+5         Fabric Testing                               30     31   
+6         Glass Testing                                30     31   
+7         Glass Research                               10     13   
+8         Glass Production                             20     26   
+9         Radio Production                             31     35   
+10        Radio Testing                                35     36   
+11        Radio Hardware Development                   10     17   
+12        Space Suit Production                        36     46   
+13        Space Suit Testing                           46     49   
+-----------------------------------------------------------------
+Project will be completed in 49 days.
+-----------------------------------------------------------------
+### MISSION GROUNDWORK END ###
+### MISSION EXPLORATION START ###
+20 solar systems have been discovered.
+Planets in Solar System 1: [D229, D351, D1210, D1311, D1498, D2413, D2648, D2679, D2709, D2838, D3351, D3884, D4009, D4195, D4244, D4489, D4759, D5476, D5554, D6370, D6568, D6716, D7592, D8112, D8133, D8158, D8219, D8638, D9670, D9898, D9915]
+Planets in Solar System 2: [D105, D125, D288, D364, D914, D998, D1026, D1163, D1331, D1384, D1616, D1804, D1884, D2153, D2241, D2456, D2490, D2549, D2747, D2886, D3005, D3042, D3124, D3580, D3616, D3690, D3695, D3783, D4212, D4377, D4590, D4637, D4788, D4888, D4891, D4951, D5098, D5201, D5645, D5666, D5716, D5874, D6168, D6197, D6266, D6291, D6327, D6549, D6638, D7236, D7333, D7336, D7493, D8329, D8415, D8742, D9012, D9246, D9257, D9278, D9303, D9338, D9444, D9490, D9735, D9842]
+Planets in Solar System 3: [D489, D491, D1157, D1572, D1978, D2003, D2250, D2442, D2601, D2755, D3290, D3442, D3534, D4445, D4700, D4910, D4980, D4993, D5032, D5218, D5336, D5770, D5869, D6517, D6805, D6864, D7463, D7602, D7755, D7836, D7922, D8118, D8558, D8721, D8894, D9113, D9146, D9147, D9204, D9447, D9574, D9605, D9699, D9785, D9887]
+Planets in Solar System 4: [D139, D172, D214, D322, D445, D611, D852, D1071, D1074, D1334, D1666, D2432, D2818, D3300, D3604, D3815, D3844, D3918, D4097, D4283, D4405, D4412, D4695, D4741, D4986, D4992, D5162, D5229, D5434, D6094, D6104, D6368, D6391, D6422, D6527, D6806, D6916, D7274, D8803, D9758]
+Planets in Solar System 5: [D537, D737, D866, D921, D1457, D1758, D2060, D2166, D2329, D2409, D2559, D2618, D2680, D2962, D3145, D3297, D3358, D3586, D3683, D3760, D4342, D4598, D4615, D4742, D4996, D5042, D5408, D5454, D5623, D5629, D5681, D5721, D5810, D5867, D5919, D6041, D6103, D6280, D6314, D6634, D6685, D6817, D6873, D7017, D7160, D7504, D7677, D8104, D8493, D8606, D8804, D9168, D9200, D9217, D9550, D9731, D9739]
+Planets in Solar System 6: [D2040, D6043, D7318, D7448, D8432, D8904]
+Planets in Solar System 7: [D818, D1846, D2378, D3022, D3311, D3605, D4813, D5751, D6741, D6991, D7067, D7094, D8053, D8788, D9404]
+Planets in Solar System 8: [D154, D302, D341, D354, D478, D924, D981, D1143, D1228, D1270, D1312, D1864, D2019, D2086, D2113, D2626, D2810, D2986, D2992, D3069, D3183, D3222, D3236, D3267, D3326, D3454, D3587, D3659, D3898, D4022, D4226, D4272, D4366, D4417, D4592, D4893, D4939, D5481, D5540, D5558, D5793, D5968, D5975, D5977, D5983, D6088, D6141, D6681, D6835, D7106, D7196, D7676, D7955, D7986, D8039, D8190, D8203, D8481, D8594, D8734, D8785, D8881, D9094, D9126, D9221, D9313, D9509, D9591, D9696, D9805, D9957]
+Planets in Solar System 9: [D997, D2454, D3443, D5775, D5882, D5926, D6599, D6986, D8359, D8653]
+Planets in Solar System 10: [D202, D283, D324, D409, D411, D633, D639, D672, D694, D796, D814, D909, D1000, D1078, D1108, D1245, D1302, D1675, D1796, D1918, D2020, D2160, D2229, D2364, D2478, D2924, D2975, D3007, D3153, D3196, D3345, D3371, D3379, D3390, D3433, D3563, D3879, D3923, D3969, D4689, D4890, D5128, D5211, D5576, D5739, D5800, D5865, D5945, D5965, D6070, D6295, D6331, D6357, D6361, D6727, D6857, D6904, D6934, D7181, D7230, D7359, D7363, D7543, D7867, D8050, D8083, D8102, D8363, D8386, D8387, D8446, D8633, D8892, D9154, D9269, D9440, D9621, D9646, D9738, D9863]
+Planets in Solar System 11: [D713, D958, D1100, D1793, D1873, D1962, D2095, D2096, D2114, D2588, D2782, D2861, D3061, D3301, D3329, D3652, D3996, D4429, D4605, D4630, D4752, D5193, D5749, D6013, D6073, D6106, D6474, D6656, D6668, D6740, D6769, D6784, D6868, D6933, D7078, D7403, D7416, D7852, D7897, D8002, D8078, D8439, D8603, D8648, D9429, D9810, D9847]
+Planets in Solar System 12: [D329, D334, D426, D546, D708, D749, D1891, D2036, D2157, D2521, D2592, D2602, D2667, D2919, D3073, D3598, D3777, D3863, D3968, D4000, D4096, D4122, D4269, D4294, D4650, D4716, D5845, D6207, D6536, D6697, D6846, D6858, D6876, D7153, D7182, D7431, D7485, D7726, D7750, D8047, D8097, D8436, D8451, D8656, D8689, D8815, D9576, D9797]
+Planets in Solar System 13: [D312, D327, D441, D592, D841, D846, D1220, D1310, D1321, D1472, D1575, D1647, D2026, D2027, D2066, D2088, D2515, D2544, D2595, D2808, D2855, D2872, D3122, D3155, D3328, D3330, D3509, D3525, D3675, D3682, D3946, D3953, D4047, D4067, D4105, D4384, D4527, D4529, D4555, D4899, D5276, D5342, D5417, D5441, D5462, D5539, D5687, D5708, D6027, D6031, D6063, D6243, D6375, D6404, D6521, D6844, D7019, D7220, D7246, D7435, D7643, D7704, D7882, D7935, D8088, D8162, D8265, D8278, D8574, D8658, D8739, D8963, D9017, D9057, D9212, D9695, D9884, D9974]
+Planets in Solar System 14: [D1946, D1993, D2046, D2756, D3665, D5859, D6476, D9236]
+Planets in Solar System 15: [D207, D382, D897, D1256, D1271, D1447, D2108, D2117, D2185, D2396, D2619, D2760, D2859, D2885, D2939, D3164, D3437, D3508, D3894, D3933, D4118, D4319, D4430, D4625, D4663, D4672, D4821, D5003, D5242, D5263, D5329, D5650, D5747, D6299, D6556, D6739, D6789, D6906, D7120, D7213, D7252, D7278, D7567, D7621, D8286, D8765, D8979, D9092, D9316, D9562, D9615, D9626, D9714, D9895, D9952]
+Planets in Solar System 16: [D393, D666, D684, D691, D845, D898, D918, D1203, D1209, D1217, D1649, D1686, D1940, D1967, D1983, D2254, D2265, D2367, D2387, D2437, D2528, D2686, D2790, D2842, D2856, D3195, D3286, D3347, D3530, D3565, D3648, D4059, D4152, D4259, D4503, D4723, D4765, D4830, D4885, D4917, D4947, D5007, D5067, D5278, D5341, D5692, D5953, D6164, D6204, D6241, D6407, D6444, D6602, D6660, D6943, D6978, D7060, D7298, D7357, D7419, D7607, D7895, D7923, D7960, D8007, D8045, D8513, D8570, D9005, D9035, D9051, D9412, D9450, D9779]
+Planets in Solar System 17: [D122, D258, D395, D440, D462, D766, D1374, D1517, D1814, D1934, D2570, D2724, D2750, D2809, D3020, D3082, D3402, D3521, D4183, D4487, D4640, D4747, D4849, D4850, D4906, D4966, D5306, D5394, D5457, D5502, D5599, D5601, D5661, D5978, D6119, D6161, D7138, D7191, D7217, D7386, D7568, D7660, D7735, D7790, D8056, D8299, D8312, D8368, D8540, D8770, D8896, D8936, D9332, D9368, D9513, D9564, D9740, D9742, D9801, D9903]
+Planets in Solar System 18: [D427, D1223, D2411, D5279, D5754, D6282, D6613, D6728, D7816, D8189, D8972, D9893]
+Planets in Solar System 19: [D186, D287, D659, D804, D877, D1167, D1230, D1434, D1439, D1533, D1583, D1759, D1775, D2299, D2523, D2671, D2691, D2705, D2848, D3101, D3204, D3491, D3564, D3572, D3608, D3834, D3842, D3977, D3989, D4143, D4263, D4280, D4836, D5148, D6374, D6690, D6702, D6756, D7056, D7057, D7193, D7212, D7262, D7295, D7744, D7768, D7909, D8563, D8593, D8697, D8756, D8897, D9286, D9339, D9647, D9793, D9874, D9891]
+Planets in Solar System 20: [D145, D688, D860, D879, D1148, D1231, D1469, D1520, D1911, D2028, D2173, D2593, D2635, D3041, D3117, D3559, D3588, D3725, D3957, D5309, D5740, D6155, D6431, D6468, D6670, D7038, D7239, D7760, D8115, D8223, D8266, D8412, D9037]
+### MISSION EXPLORATION END ###
+### MISSION NETWORKING START ###
+Hyperchannel between D1311 - D8742 with cost 1.452261
+Hyperchannel between D489 - D8742 with cost 1.445000
+Hyperchannel between D2618 - D8742 with cost 1.445000
+Hyperchannel between D7094 - D8742 with cost 1.445000
+Hyperchannel between D4366 - D8742 with cost 1.445000
+Hyperchannel between D1796 - D8742 with cost 1.445000
+Hyperchannel between D426 - D8742 with cost 1.445000
+Hyperchannel between D5441 - D8742 with cost 1.445000
+Hyperchannel between D2760 - D8742 with cost 1.445000
+Hyperchannel between D845 - D8742 with cost 1.445000
+Hyperchannel between D3521 - D8742 with cost 1.445000
+Hyperchannel between D8742 - D9891 with cost 1.445000
+Hyperchannel between D3329 - D8742 with cost 1.452261
+Hyperchannel between D6806 - D8742 with cost 1.459596
+Hyperchannel between D8742 - D8904 with cost 1.467005
+Hyperchannel between D2028 - D8742 with cost 1.467005
+Hyperchannel between D5882 - D8742 with cost 1.474490
+Hyperchannel between D1946 - D8742 with cost 1.497409
+Hyperchannel between D8742 - D9893 with cost 1.505208
+The total cost of the subspace communication network is 27.670236.
+### MISSION NETWORKING END ###

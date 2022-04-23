@@ -1,0 +1,22 @@
+### MISSION NETWORKING START ###
+Hyperchannel between D1311 - D8742 with cost 1.452261
+Hyperchannel between D489 - D8742 with cost 1.445000
+Hyperchannel between D2618 - D8742 with cost 1.445000
+Hyperchannel between D7094 - D8742 with cost 1.445000
+Hyperchannel between D4366 - D8742 with cost 1.445000
+Hyperchannel between D1796 - D8742 with cost 1.445000
+Hyperchannel between D426 - D8742 with cost 1.445000
+Hyperchannel between D5441 - D8742 with cost 1.445000
+Hyperchannel between D2760 - D8742 with cost 1.445000
+Hyperchannel between D845 - D8742 with cost 1.445000
+Hyperchannel between D3521 - D8742 with cost 1.445000
+Hyperchannel between D8742 - D9891 with cost 1.445000
+Hyperchannel between D3329 - D8742 with cost 1.452261
+Hyperchannel between D6806 - D8742 with cost 1.459596
+Hyperchannel between D8742 - D8904 with cost 1.467005
+Hyperchannel between D2028 - D8742 with cost 1.467005
+Hyperchannel between D5882 - D8742 with cost 1.474490
+Hyperchannel between D1946 - D8742 with cost 1.497409
+Hyperchannel between D8742 - D9893 with cost 1.505208
+The total cost of the subspace communication network is 27.670236.
+### MISSION NETWORKING END ###

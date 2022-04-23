@@ -1,0 +1,6 @@
+### MISSION EXPLORATION START ###
+3 solar systems have been discovered.
+Planets in Solar System 1: [D46, D88, D145]
+Planets in Solar System 2: [D49, D518, D615, D819]
+Planets in Solar System 3: [D131, D191, D292, D532, D564]
+### MISSION EXPLORATION END ###
